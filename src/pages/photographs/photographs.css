@@ -1,0 +1,13 @@
+.img-container {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 70px;
+}
+
+.img-nature {
+  object-fit: cover;
+  width: 600px;
+  border: 1px solid #191919;
+}
